@@ -13,7 +13,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 @Slf4j
-public class OrderEventHandler {
+public class PaymentEventHandler {
 
     @Autowired
     ObjectMapper objectMapper;
